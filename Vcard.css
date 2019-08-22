@@ -23,6 +23,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border-radius: 1px;
+    box-shadow: 0.5px grey;
 }
 
 .image {
